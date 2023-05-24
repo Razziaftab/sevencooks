@@ -19,7 +19,7 @@ sudo apt-get update
 sudo apt-get install apache2
 sudo apt-get install php-8.1
 
-git clone https://github.com/Razziaftab/seven-cooks.git
+git clone https://github.com/Razziaftab/sevencooks.git
 ```
 ## Run the Project
 
